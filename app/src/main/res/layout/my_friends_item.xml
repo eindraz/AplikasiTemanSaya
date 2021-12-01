@@ -35,6 +35,21 @@
             android:layout_height="wrap_content"
             android:text="Telp"
             android:textSize="20sp"/>
+
+        <TextView
+            android:layout_marginTop="4dp"
+            android:id="@+id/txtFriendAlamat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alamat"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_marginTop="4dp"
+            android:id="@+id/txtFriendKelamin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kelamin"
+            android:textSize="20sp"/>
     </LinearLayout>
 
     <View

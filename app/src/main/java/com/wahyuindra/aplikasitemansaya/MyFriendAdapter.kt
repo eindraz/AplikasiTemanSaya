@@ -25,6 +25,8 @@ class MyFriendAdapter(private val context: Context, private val items: ArrayList
             txtFriendName.text = item.nama
             txtFriendEmail.text = item.email
             txtFriendTelp.text = item.telp
+            txtFriendAlamat.text = item.alamat
+            txtFriendKelamin.text = item.kelamin
         }
 
     }
